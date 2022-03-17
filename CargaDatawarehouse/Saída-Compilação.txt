@@ -1,0 +1,15 @@
+﻿Recompilação iniciada...
+------ Recompilação total iniciada: Projeto: CargaDatawarehouse, Configuração: Development ------
+Compilação iniciada: Projeto do SQL Server Integration Services: Completo ...
+Iniciando a verificação de consistência do projeto...
+Verificação de consistência do projeto concluída. O projeto está consistente.
+O arquivo 'C:\Users\Marcelo Castilho\Documents\Projetos\DatawarehouseSucos\CargaDatawarehouse\obj\Development\CargaDatawarehouse.dtproj' foi atualizado.
+O arquivo 'C:\Users\Marcelo Castilho\Documents\Projetos\DatawarehouseSucos\CargaDatawarehouse\obj\Development\Project.params' foi atualizado.
+O arquivo 'C:\Users\Marcelo Castilho\Documents\Projetos\DatawarehouseSucos\CargaDatawarehouse\obj\Development\CargaDimensões.dtsx' foi atualizado.
+O arquivo 'C:\Users\Marcelo Castilho\Documents\Projetos\DatawarehouseSucos\CargaDatawarehouse\obj\Development\CargaFatos.dtsx' foi atualizado.
+Configuração ativa aplicada a 'Project.params'.
+Configuração ativa aplicada a 'CargaDimensões.dtsx'.
+Configuração ativa aplicada a 'CargaFatos.dtsx'.
+CargaDatawarehouse -> C:\Users\Marcelo Castilho\Documents\Projetos\DatawarehouseSucos\CargaDatawarehouse\bin\Development\CargaDatawarehouse.ispac
+Compilação concluída -- 0 erros, 0 avisos
+========== Recompilar Tudo: 1 com êxito, 0 com falha, 0 ignorados ==========

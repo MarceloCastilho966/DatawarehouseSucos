@@ -3,7 +3,7 @@
 	[Cod_Dia] NVARCHAR(50) NOT NULL PRIMARY KEY, 
     [Data] DATE NULL, 
     [Cod_Semana] INT NULL, 
-    [Nome_DIa_Semana] NVARCHAR(50) NULL, 
+    [Nome_Dia_Semana] NVARCHAR(50) NULL, 
     [Cod_Mes] INT NULL, 
     [Nome_Mes] NVARCHAR(50) NULL, 
     [Cod_Mes_Ano] NVARCHAR(50) NULL, 

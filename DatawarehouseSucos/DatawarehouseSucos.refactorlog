@@ -98,4 +98,11 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="Custo_Fixo" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="9d10ed18-08a0-4929-a677-843a90284b31" ChangeDateTime="03/17/2022 12:56:19">
+    <Property Name="ElementName" Value="[dbo].[Dim_Tempo].[Nome_DIa_Semana]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Dim_Tempo]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Nome_Dia_Semana" />
+  </Operation>
 </Operations>
